@@ -12,9 +12,9 @@
 </div>
 
 ###
-
-![](https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2)
-
+<div align="center">
+    ![](https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2)
+</div>
 <!--
 <div align="center">
   <a href="youtube.com/@misakiidev" target="_blank">
