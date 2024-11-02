@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/misakiidev/misakiidev/output/snake.svg" />
+<!-- <img align="center" src="https://raw.githubusercontent.com/misakiidev/misakiidev/output/snake.svg" /> -->
 
 ###
 
