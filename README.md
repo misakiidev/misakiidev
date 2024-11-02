@@ -1,20 +1,26 @@
-<h2 align="center">Welcome! My name is misakii, and I'm a student at Epitech.</h2>
+<img align="center" src="https://raw.githubusercontent.com/misakiidev/misakiidev/output/snake.svg" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/misakiidev/misakiidev/output/snake.svg" alt="Snake animation" />
+# 💫 About Me:
 
-###
+<img align="right" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2&count=1" />
+
+🏫 Software Engineer Student at Epitech Montpellier<br>
+🍃 Currently learning C<br>
+💼 Aiming to become a Game Developper<br>
+🎮 Celeste & Maimai Player
+
+
+# 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misakiidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misakiidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+![](https://github-readme-stats.vercel.app/api?username=misakiidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=misakiidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+
 </div>
 
-###
-<div align="center">
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2"</img>
-</div>
 <!--
 <div align="center">
   <a href="youtube.com/@misakiidev" target="_blank">
