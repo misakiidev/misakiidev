@@ -11,6 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misakiidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2)
+
 <!--
 <div align="center">
   <a href="youtube.com/@misakiidev" target="_blank">
