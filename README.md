@@ -13,7 +13,7 @@
 
 ###
 <div align="center">
-    ![](https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2)
+  <p>![](https://spotify-recently-played-readme.vercel.app/api?user=7qy3s62v7as1h5684on7mcjf2)</p>
 </div>
 <!--
 <div align="center">
