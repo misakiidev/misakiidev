@@ -1,6 +1,6 @@
 <!-- <img align="center" src="https://raw.githubusercontent.com/misakiidev/misakiidev/output/snake.svg" /> -->
 
-![image](https://github.com/user-attachments/assets/6d5930cd-fead-431e-86b0-ff9f30e35274)
+![banner](https://github.com/user-attachments/assets/17eeb447-3f08-4046-81ca-6f43c053c703)
 
 ###
 
